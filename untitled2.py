@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1d2AM-R0sNgJ76fyVomCxEGML5mLVaOye
 """
 
-pip install pygsheets
+# pip install pygsheets
 
 import os
 import re
